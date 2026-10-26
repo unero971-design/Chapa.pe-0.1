@@ -1,0 +1,123 @@
+1. a-alto-trujillo-ida|code=M-25 A|name=La A de Alto Trujillo|company=ALTO TRUJILLO S.A.|Calle Liverpool -> Calle F|type=Micro|fare=2.50|color=#0ea5e9|dir=Ida y vuelta
+2. a-caballito-de-totora-ida|code=C-29 A|name=La A de Caballito De Totora|company=CABALLITO DE TOTORA S.A.|Los Sauces de Barraza -> Sector Las Lomas|type=Micro|fare=2.50|color=#facc15|dir=Ida y vuelta
+3. a-california-ida|code=M-02 A|name=La A de California|company=CALIFORNIA S.A.|Calle Turquesas -> Avenida Manuel Seoane|type=Micro|fare=2.50|color=#16a34a|dir=Ida
+4. ct-25-a-emp-transp-wichanzao-circular|code=CT-25 A|name=La A de Emp Transp Wichanzao|company=Emp. Transp. Wichanzao S.A.|Jirón Rimac -> Jirón Rimac|type=Micro|fare=2.50|color=#7c3aed|dir=Circular
+5. ct-26-a-horizonte-ecologico-circular|code=CT-26 A|name=La A de De Horizonte Ecologico|company=Empresa de Transportes Horizonte Ecologico S.A.|Jirón Rimac -> Jirón Rimac|type=Micro|fare=2.50|color=#dc2626|dir=Circular
+6. r000|code=CT-15 A|name=La A de Alfa Y Omega|company=Alfa y Omega S.A.C.|Jirón Unión -> Avenida España|type=Micro|fare=2.00|color=#808080|dir=Circular
+7. r006|code=A|name=Esperanza|company=ESPERANZA EXPRESS S.A.|Av. Victor Larco Herrera, Buenos Aires -> El Milagro|type=Micro|fare=2.00|color=#ea580c|dir=Ambos
+8. r007|code=CT-24 A|name=Esperanza Tours|company=Esperanza Tours S.R.L.|Avenida Miguel Grau -> Avenida José Gabriel Condorcanqui, La Esperanza|type=Bus|fare=2.00|color=#0891b2|dir=Ambos
+9. r008|code=CT-01 A|name=Expreso Buenos Aires|company=Expreso Buenos Aires S.A.C.|Jirón Desamparados, Buenos Aires -> Avenida Victor Larco Herrera, Vista Alegre|type=Bus|fare=2.00|color=#db2777|dir=Ambos
+10. r009|code=A / M-04 A|name=Huanchaco|company=HUANCHACO S.A.|LI-724, Océano Verde -> Avenida la Marina, Asentamiento Humano San Luis|type=Micro|fare=2.00|color=#65a30d|dir=Ambos
+11. r010|code=CT-10 A|name=Huracan|company=Huracan S.A.C.|Prolongación Calle 50, Alto Trujillo -> Avenida las Magnolias, Alto Trujillo|type=Bus|fare=2.00|color=#9333ea|dir=Ambos
+12. r011|code=CT-02 A|name=Larco|company=Larco Express S.A.|Jirón Atahualpa, Urb. El Recreo 1ª Etapa -> Jirón Atahualpa, Urb. El Recreo 1ª Etapa|type=Bus|fare=2.00|color=#f97316|dir=Ambos
+13. r012|code=A|name=Libertad|company=LIBERTAD S.A.|Calle 8, Covicorti -> Calle 10, Alto Trujillo|type=Micro|fare=2.00|color=#0d9488|dir=Ambos
+14. r013|code=A|name=Los Diamantes|company=LOS DIAMANTES S.R.L.|Avenida Albania, Alto Trujillo -> Avenida Independencia, El Sol de las Delicias 2ª Etapa|type=Micro|fare=2.00|color=#e11d48|dir=Ambos
+15. r014|code=A|name=Nuevo California|company=NUEVO CALIFORNIA S.A.|Nuevo California -> Nuevo California|type=Micro|fare=2.00|color=#4f46e5|dir=Ambos
+16. r015|code=CT-04 A|name=Reyna Larco|company=Reyna Larco S.A.|Reyna Larco -> Reyna Larco|type=Bus|fare=2.00|color=#ca8a04|dir=Ambos
+17. r016|code=A|name=Salaverry|company=SALAVERRY EXPRESS S.A.|Salaverry -> Salaverry|type=Micro|fare=2.00|color=#059669|dir=Ambos
+18. r017|code=A|name=Salaverry|company=SALAVERRY EXPRESS S.A.|Salaverry -> Salaverry|type=Micro|fare=2.00|color=#b91c1c|dir=Ambos
+19. r018|code=CT-22 A|name=San Pedro Del Amor|company=San Pedro del Amor S.A.|San Pedro Del Amor -> San Pedro Del Amor|type=Bus|fare=2.00|color=#2563eb|dir=Ambos
+20. r019|code=A|name=Señor De Los Milagros|company=SEÑOR DE LOS MILAGROS S.A|Señor De Los Milagros -> Señor De Los Milagros|type=Micro|fare=2.00|color=#7e22ce|dir=Ambos
+21. r020|code=CT-09 A|name=Serv Generales Nuevo Gran Chimu|company=Serv. Generales nuevo Gran Chimu|Serv Generales Nuevo Gran Chimu -> Serv Generales Nuevo Gran Chimu|type=Bus|fare=2.00|color=#c2410c|dir=Ambos
+22. r021|code=CT-23 A|name=Serv Multiples Moderno|company=Serv. Multiples Moderno Express S.A.|Serv Multiples Moderno -> Serv Multiples Moderno|type=Bus|fare=2.00|color=#15803d|dir=Ambos
+23. r022|code=CT-03 A|name=Victor Larco|company=Victor Larco S.A.|Victor Larco -> Victor Larco|type=Bus|fare=2.00|color=#be185d|dir=Ambos
+24. r023|code=A|name=Virgen De La Puerta|company=VIRGEN DE LA PUERTA S.A.|Virgen De La Puerta -> Virgen De La Puerta|type=Micro|fare=2.00|color=#1d4ed8|dir=Ambos
+25. r024|code=A1|name=Señor De Los Milagros|company=Señor de los Milagros|Señor De Los Milagros -> Señor De Los Milagros|type=Micro|fare=2.00|color=#1e40af|dir=Ambos
+26. r025|code=A1-B1|name=Señor De Los Milagros|company=SEÑOR DE LOS MILAGROS S.A|Señor De Los Milagros -> Señor De Los Milagros|type=Micro|fare=2.00|color=#0ea5e9|dir=Ambos
+27. r026|code=AB|name=Cesar Vallejo|company=CESAR VALLEJO S.A.|Cesar Vallejo -> Cesar Vallejo|type=Micro|fare=2.00|color=#facc15|dir=Ambos
+28. r027|code=CT-23 AC|name=Serv Multiples Moderno|company=Serv. Multiples Moderno Express S.A.|Serv Multiples Moderno -> Serv Multiples Moderno|type=Bus|fare=2.00|color=#16a34a|dir=Ambos
+29. r028|code=CT-08 AM|name=Dios Es Mi Guia|company=Turismo Dios es mi guia S.R.L.|Dios Es Mi Guia -> Dios Es Mi Guia|type=Bus|fare=2.00|color=#dc2626|dir=Ambos
+30. r029|code=CT-26 AU|name=De Horizonte Ecologico|company=Empresa de Transportes Horizonte Ecologico S.A.|De Horizonte Ecologico -> De Horizonte Ecologico|type=Bus|fare=2.00|color=#7c3aed|dir=Ambos
+31. r030|code=CT-24 AU|name=Esperanza Tours|company=Esperanza Tours S.R.L.|Esperanza Tours -> Esperanza Tours|type=Bus|fare=2.00|color=#ea580c|dir=Ambos
+32. r031|code=B|name=Alto Trujillo|company=ALTO TRUJILLO S.A.|Alto Trujillo -> Alto Trujillo|type=Micro|fare=2.00|color=#0891b2|dir=Ambos
+33. r032|code=B|name=Caballito De Totora|company=CABALLITO DE TOTORA S.A.|Caballito De Totora -> Caballito De Totora|type=Micro|fare=2.00|color=#db2777|dir=Ambos
+34. r033|code=B|name=California|company=CALIFORNIA S.A.|California -> California|type=Micro|fare=2.00|color=#65a30d|dir=Ambos
+35. r034|code=CT-26 B|name=De Horizonte Ecologico|company=Empresa de Transportes Horizonte Ecologico S.A.|De Horizonte Ecologico -> De Horizonte Ecologico|type=Bus|fare=2.00|color=#9333ea|dir=Ambos
+36. r035|code=CT-25 B|name=Emp Transp Wichanzao|company=Emp. Transp. Wichanzao S.A.|Emp Transp Wichanzao -> Emp Transp Wichanzao|type=Bus|fare=2.00|color=#f97316|dir=Ambos
+37. r036|code=B|name=Esperanza|company=ESPERANZA EXPRESS S.A.|Esperanza -> Esperanza|type=Micro|fare=2.00|color=#0d9488|dir=Ambos
+38. r037|code=CT-24 B|name=Esperanza Tours|company=Esperanza Tours S.R.L.|Esperanza Tours -> Esperanza Tours|type=Bus|fare=2.00|color=#e11d48|dir=Ambos
+39. r038|code=B|name=Huanchaco|company=HUANCHACO S.A.|Huanchaco -> Huanchaco|type=Micro|fare=2.00|color=#4f46e5|dir=Ambos
+40. r039|code=CT-10 B|name=Huracan|company=Huracan S.A.C.|Huracan -> Huracan|type=Bus|fare=2.00|color=#ca8a04|dir=Ambos
+41. r040|code=B|name=Nuevos Girasoles|company=NUEVOS GIRASOLES S.A.|Nuevos Girasoles -> Nuevos Girasoles|type=Micro|fare=2.00|color=#059669|dir=Ambos
+42. r041|code=B|name=Ramiro Priale|company=RAMIRO PRIALE S.A.|Ramiro Priale -> Ramiro Priale|type=Micro|fare=2.00|color=#b91c1c|dir=Ambos
+43. r042|code=CT-22 B|name=San Pedro Del Amor|company=San Pedro del Amor S.A.|San Pedro Del Amor -> San Pedro Del Amor|type=Bus|fare=2.00|color=#2563eb|dir=Ambos
+44. r043|code=B|name=Santa Lucia De Moche|company=SANTA LUCIA DE MOCHE S.R.L.|Santa Lucia De Moche -> Santa Lucia De Moche|type=Micro|fare=2.00|color=#7e22ce|dir=Ambos
+45. r044|code=CT-23 B|name=Serv Multiples Moderno|company=Serv. Multiples Moderno Express S.A.|Serv Multiples Moderno -> Serv Multiples Moderno|type=Bus|fare=2.00|color=#c2410c|dir=Ambos
+46. r045|code=B|name=Virgen De La Puerta|company=VIRGEN DE LA PUERTA S.A.|Virgen De La Puerta -> Virgen De La Puerta|type=Micro|fare=2.00|color=#15803d|dir=Ambos
+47. r046|code=B1|name=Moderno Girasoles|company=MODERNO GIRASOLES EXPRESS S.A|Moderno Girasoles -> Moderno Girasoles|type=Micro|fare=2.00|color=#be185d|dir=Ambos
+48. r047|code=B1|name=Nuevo California|company=NUEVO CALIFORNIA S.A.|Nuevo California -> Nuevo California|type=Micro|fare=2.00|color=#1d4ed8|dir=Ambos
+49. r048|code=B2|name=Los Girasoles Service|company=LOS GIRASOLES SERVICE S.R.L.|Los Girasoles Service -> Los Girasoles Service|type=Micro|fare=2.00|color=#1e40af|dir=Ambos
+50. r049|code=BC|name=Nuevo California|company=NUEVO CALIFORNIA S.A.|Nuevo California -> Nuevo California|type=Micro|fare=2.00|color=#0ea5e9|dir=Ambos
+51. r050|code=CT-23 BC|name=Serv Multiples Moderno|company=Serv. Multiples Moderno Express S.A.|Serv Multiples Moderno -> Serv Multiples Moderno|type=Bus|fare=2.00|color=#facc15|dir=Ambos
+52. r051|code=CT-26 BU|name=De Horizonte Ecologico|company=Empresa de Transportes Horizonte Ecologico S.A.|De Horizonte Ecologico -> De Horizonte Ecologico|type=Bus|fare=2.00|color=#16a34a|dir=Ambos
+53. r052|code=C|name=Bello Horizonte|company=BELLO HORIZONTE S.A.|Bello Horizonte -> Bello Horizonte|type=Micro|fare=2.00|color=#dc2626|dir=Ambos
+54. r053|code=C|name=Caballito De Totora|company=CABALLITO DE TOTORA S.A.|Caballito De Totora -> Caballito De Totora|type=Micro|fare=2.00|color=#7c3aed|dir=Ambos
+55. r054|code=C|name=California|company=CALIFORNIA S.A.|California -> California|type=Micro|fare=2.00|color=#ea580c|dir=Ambos
+56. r055|code=C|name=Mochica|company=MOCHICA S.A.|Mochica -> Mochica|type=Micro|fare=2.00|color=#0891b2|dir=Ambos
+57. r056|code=C|name=Moderno Cielo Azul|company=MODERNO CIELO AZUL S.A.|Moderno Cielo Azul -> Moderno Cielo Azul|type=Micro|fare=2.00|color=#db2777|dir=Ambos
+58. r057|code=C|name=Nuevo California|company=NUEVO CALIFORNIA S.A.|Nuevo California -> Nuevo California|type=Micro|fare=2.00|color=#65a30d|dir=Ambos
+59. r058|code=C|name=Salaverry|company=SALAVERRY EXPRESS S.A.|Salaverry -> Salaverry|type=Micro|fare=2.00|color=#9333ea|dir=Ambos
+60. r059|code=CT-22 C|name=San Pedro Del Amor|company=San Pedro del Amor S.A.|San Pedro Del Amor -> San Pedro Del Amor|type=Bus|fare=2.00|color=#f97316|dir=Ambos
+61. r060|code=C1|name=El Cortijo|company=EL CORTIJO S.A.|El Cortijo -> El Cortijo|type=Micro|fare=2.00|color=#0d9488|dir=Ambos
+62. r061|code=C1|name=Libertad|company=La Libertad|Libertad -> Libertad|type=Micro|fare=2.00|color=#e11d48|dir=Ambos
+63. r062|code=C2|name=El Cortijo|company=EL CORTIJO S.A.|El Cortijo -> El Cortijo|type=Micro|fare=2.00|color=#4f46e5|dir=Ambos
+64. r063|code=C2|name=Libertad|company=La Libertad|Libertad -> Libertad|type=Micro|fare=2.00|color=#ca8a04|dir=Ambos
+65. r064|code=C2VR|name=El Cortijo|company=El Cortijo|El Cortijo -> El Cortijo|type=Micro|fare=2.00|color=#059669|dir=Ambos
+66. r065|code=C3|name=El Cortijo|company=EL CORTIJO S.A.|El Cortijo -> El Cortijo|type=Micro|fare=2.00|color=#b91c1c|dir=Ambos
+67. r066|code=D|name=El Icaro Inversionistas|company=El Icaro|El Icaro Inversionistas -> El Icaro Inversionistas|type=Micro|fare=2.00|color=#2563eb|dir=Ambos
+68. r067|code=D|name=Mochica|company=MOCHICA S.A.|Mochica -> Mochica|type=Micro|fare=2.00|color=#7e22ce|dir=Ambos
+69. r068|code=D|name=Nuevo California|company=NUEVO CALIFORNIA S.A.|Nuevo California -> Nuevo California|type=Micro|fare=2.00|color=#c2410c|dir=Ambos
+70. r069|code=CT-22 D|name=San Pedro Del Amor|company=San Pedro del Amor S.A.|San Pedro Del Amor -> San Pedro Del Amor|type=Bus|fare=2.00|color=#15803d|dir=Ambos
+71. r070|code=D|name=Señor De Los Milagros|company=SEÑOR DE LOS MILAGROS S.A|Señor De Los Milagros -> Señor De Los Milagros|type=Micro|fare=2.00|color=#be185d|dir=Ambos
+72. r071|code=E|name=Arco Iris|company=ARCO IRIS EXPRESS S.A.|Arco Iris -> Arco Iris|type=Micro|fare=2.00|color=#1d4ed8|dir=Ambos
+73. r072|code=CT-11 E|name=Rio Seco|company=Rio Seco S.A.|Rio Seco -> Rio Seco|type=Bus|fare=2.00|color=#1e40af|dir=Ambos
+74. r073|code=CT-16 F|name=Hermelinda|company=Hermelinda Express S.R.L.|Hermelinda -> Hermelinda|type=Bus|fare=2.00|color=#0ea5e9|dir=Ambos
+75. r074|code=CT-21 F|name=N 1 Florencia|company=N° 1 Florencia Express S.A.|N 1 Florencia -> N 1 Florencia|type=Bus|fare=2.00|color=#facc15|dir=Ambos
+76. r075|code=F|name=Salaverry|company=SALAVERRY EXPRESS S.A.|Salaverry -> Salaverry|type=Micro|fare=2.00|color=#16a34a|dir=Ambos
+77. r076|code=F|name=Virgen Del Arco|company=VIRGEN DEL ARCO S.A.|Virgen Del Arco -> Virgen Del Arco|type=Micro|fare=2.00|color=#dc2626|dir=Ambos
+78. r077|code=G|name=Los Girasoles Service|company=LOS GIRASOLES SERVICE S.R.L.|Los Girasoles Service -> Los Girasoles Service|type=Micro|fare=2.00|color=#7c3aed|dir=Ambos
+79. r078|code=H|name=Huanchaco|company=Huanchaco|Huanchaco -> Huanchaco|type=Micro|fare=2.00|color=#ea580c|dir=Ambos
+80. r079|code=CT-17 H|name=Nueva Hermelinda|company=Nueva Hermelinda S.A.C.|Nueva Hermelinda -> Nueva Hermelinda|type=Bus|fare=2.00|color=#0891b2|dir=Ambos
+81. r080|code=H|name=Nuevos Girasoles|company=NUEVOS GIRASOLES S.A.|Nuevos Girasoles -> Nuevos Girasoles|type=Micro|fare=2.00|color=#db2777|dir=Ambos
+82. r081|code=CT-19 H|name=Serv Generales Lider|company=Serv. Generales Lider Express S.A.|Serv Generales Lider -> Serv Generales Lider|type=Bus|fare=2.00|color=#65a30d|dir=Ambos
+83. r082|code=H1, H2|name=Santa Catalina|company=SANTA CATALINA S.A.|Santa Catalina -> Santa Catalina|type=Micro|fare=2.00|color=#9333ea|dir=Ambos
+84. r083|code=H2|name=Santa Catalina|company=Santa Catalina|Santa Catalina -> Santa Catalina|type=Micro|fare=2.00|color=#f97316|dir=Ambos
+85. r084|code=I|name=Virgen Del Arco|company=VIRGEN DEL ARCO S.A.|Virgen Del Arco -> Virgen Del Arco|type=Micro|fare=2.00|color=#0d9488|dir=Ambos
+86. r085|code=JJ|name=Nuevos Girasoles|company=NUEVOS GIRASOLES S.A.|Nuevos Girasoles -> Nuevos Girasoles|type=Micro|fare=2.00|color=#e11d48|dir=Ambos
+87. r086|code=K|name=Titanic|company=TITANIC EXPRESS S.A.|Titanic -> Titanic|type=Micro|fare=2.00|color=#4f46e5|dir=Ambos
+88. r087|code=CT-27 L|name=Jose Emilio Lefebvre|company=Jose Emilio Lefebvre S.A.|Jose Emilio Lefebvre -> Jose Emilio Lefebvre|type=Bus|fare=2.00|color=#ca8a04|dir=Ambos
+89. r088|code=LV|name=Nuevo California|company=NUEVO CALIFORNIA S.A.|Nuevo California -> Nuevo California|type=Micro|fare=2.00|color=#059669|dir=Ambos
+90. r089|code=M|name=Luz Divina|company=LUZ DIVINA S.A.|Luz Divina -> Luz Divina|type=Micro|fare=2.00|color=#b91c1c|dir=Ambos
+91. r090|code=M|name=Mochica Chimú|company=Mochica Chimu|Mochica Chimú -> Mochica Chimú|type=Micro|fare=2.00|color=#2563eb|dir=Ambos
+92. r091|code=NN|name=Mensajeros Del Señor|company=MENSAJEROS DEL SEÑOR S.A.|Mensajeros Del Señor -> Mensajeros Del Señor|type=Micro|fare=2.00|color=#7e22ce|dir=Ambos
+93. r092|code=O|name=Titanic|company=TITANIC EXPRESS S.A.|Titanic -> Titanic|type=Micro|fare=2.00|color=#c2410c|dir=Ambos
+94. r093|code=P|name=Bello Horizonte|company=BELLO HORIZONTE S.A.|Bello Horizonte -> Bello Horizonte|type=Micro|fare=2.00|color=#15803d|dir=Ambos
+95. r094|code=P|name=Virgen Del Arco|company=VIRGEN DEL ARCO S.A.|Virgen Del Arco -> Virgen Del Arco|type=Micro|fare=2.00|color=#be185d|dir=Ambos
+96. r095|code=P1|name=Santa Rosa|company=SANTA ROSA S.R.L.|Santa Rosa -> Santa Rosa|type=Micro|fare=2.00|color=#1d4ed8|dir=Ambos
+97. r096|code=P2|name=Santa Rosa|company=SANTA ROSA S.R.L.|Santa Rosa -> Santa Rosa|type=Micro|fare=2.00|color=#1e40af|dir=Ambos
+98. r097|code=R|name=Luz Divina|company=LUZ DIVINA S.A.|Luz Divina -> Luz Divina|type=Micro|fare=2.00|color=#0ea5e9|dir=Ambos
+99. r098|code=R|name=Señor De La Misericordia|company=SEÑOR DE LA MISERICORDIA S.A.|Señor De La Misericordia -> Señor De La Misericordia|type=Micro|fare=2.00|color=#facc15|dir=Ambos
+100. r099|code=S|name=Bello Horizonte|company=BELLO HORIZONTE S.A.|Bello Horizonte -> Bello Horizonte|type=Micro|fare=2.00|color=#16a34a|dir=Ambos
+101. r100|code=S|name=San Isidro Labrador|company=SAN ISIDRO LABRADOR S.A.|San Isidro Labrador -> San Isidro Labrador|type=Micro|fare=2.00|color=#dc2626|dir=Ambos
+102. r101|code=S|name=Sol Y Luna|company=LOS GIRASOLES SERVICE S.R.L.|Sol Y Luna -> Sol Y Luna|type=Micro|fare=2.00|color=#7c3aed|dir=Ambos
+103. r102|code=S1|name=Santa Catalina|company=SANTA CATALINA S.A.|Santa Catalina -> Santa Catalina|type=Micro|fare=2.00|color=#ea580c|dir=Ambos
+104. r103|code=S2|name=El Aguila|company=EL AGUILA S.A.|El Aguila -> El Aguila|type=Micro|fare=2.00|color=#0891b2|dir=Ambos
+105. r104|code=S3|name=Señor De La Misericordia|company=SEÑOR DE LA MISERICORDIA S.A.|Señor De La Misericordia -> Señor De La Misericordia|type=Micro|fare=2.00|color=#db2777|dir=Ambos
+106. r105|code=S4|name=Corazón De Jesús|company=CORAZÓN DE JESÚS S.A.C.|Corazón De Jesús -> Corazón De Jesús|type=Micro|fare=2.00|color=#65a30d|dir=Ambos
+107. r106|code=CT-12 SL|name=Los Halcones|company=Los Halcones S.A.|Los Halcones -> Los Halcones|type=Bus|fare=2.00|color=#9333ea|dir=Ambos
+108. r107|code=CT-14 SL|name=Y Serv Los Pinos|company=Turismo y serv. Los Pinos S.A.C.|Y Serv Los Pinos -> Y Serv Los Pinos|type=Bus|fare=2.00|color=#f97316|dir=Ambos
+109. r108|code=T1|name=San Isidro Labrador|company=SAN ISIDRO LABRADOR S.A.|San Isidro Labrador -> San Isidro Labrador|type=Micro|fare=2.00|color=#0d9488|dir=Ambos
+110. r109|code=T2|name=Miramar|company=MIRAMAR S.A.|Miramar -> Miramar|type=Micro|fare=2.00|color=#e11d48|dir=Ambos
+111. r110|code=CT-29 TA|name=Amigos Unidos|company=Amigos Unidos S.A.C.|Amigos Unidos -> Amigos Unidos|type=Bus|fare=2.00|color=#4f46e5|dir=Ambos
+112. r111|code=CT-28 T.S.|name=Salaverry|company=Serv. Generales Salaverry S.R.L.|Salaverry -> Salaverry|type=Bus|fare=2.00|color=#ca8a04|dir=Ambos
+113. r112|code=U|name=El Aguila|company=EL AGUILA S.A.|El Aguila -> El Aguila|type=Micro|fare=2.00|color=#059669|dir=Ambos
+114. r113|code=UI|name=Luz Divina|company=LUZ DIVINA S.A.|Luz Divina -> Luz Divina|type=Micro|fare=2.00|color=#b91c1c|dir=Ambos
+115. r114|code=V|name=Nuevo California|company=NUEVO CALIFORNIA S.A.|Nuevo California -> Nuevo California|type=Micro|fare=2.00|color=#2563eb|dir=Ambos
+116. r115|code=CT-05 V-A|name=Covisa|company=COVISA S.A.C.|Covisa -> Covisa|type=Bus|fare=2.00|color=#7e22ce|dir=Ambos
+117. r116|code=CT-06 V-A|name=Nuestra Señora De Guadalupe|company=Nuestra Señora de Guadalupe S.A.|Nuestra Señora De Guadalupe -> Nuestra Señora De Guadalupe|type=Bus|fare=2.00|color=#c2410c|dir=Ambos
+118. r117|code=CT-07 V-A|name=Serv E Industria Vista Alegre|company=Serv. e industria Vista Alegre S.A.|Serv E Industria Vista Alegre -> Serv E Industria Vista Alegre|type=Bus|fare=2.00|color=#15803d|dir=Ambos
+119. r118|code=W|name=Miramar|company=MIRAMAR S.A.|Miramar -> Miramar|type=Micro|fare=2.00|color=#be185d|dir=Ambos
+120. r119|code=XS|name=Moderno Girasoles|company=MODERNO GIRASOLES EXPRESS S.A|Moderno Girasoles -> Moderno Girasoles|type=Micro|fare=2.00|color=#1d4ed8|dir=Ambos
+121. r120|code=Y|name=Señor De La Misericordia|company=SEÑOR DE LA MISERICORDIA S.A.|Señor De La Misericordia -> Señor De La Misericordia|type=Micro|fare=2.00|color=#1e40af|dir=Ambos
+122. r121|code=Z1|name=Titanic|company=TITANIC EXPRESS S.A.|Titanic -> Titanic|type=Micro|fare=2.00|color=#0ea5e9|dir=Ambos
+123. r122|code=Z2|name=Arco Iris|company=ARCO IRIS EXPRESS S.A.|Arco Iris -> Arco Iris|type=Micro|fare=2.00|color=#facc15|dir=Ambos

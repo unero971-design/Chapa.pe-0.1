@@ -1,0 +1,7 @@
+[functions.regenerate-route-geometry]
+verify_jwt = false
+entrypoint = "./functions/regenerate-route-geometry/index.ts"
+
+[functions.import-tmt-gtfs]
+verify_jwt = false
+entrypoint = "./functions/import-tmt-gtfs/index.ts"

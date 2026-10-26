@@ -1,0 +1,13 @@
+{
+  "projectId": "72191825",
+  "functions": {
+    "import-tmt-gtfs": {
+      "hasChanged": false,
+      "hash": "5f3eb2ee3135b940aa9288dc9835350a0013a11aff18d5f8242f247c34c3d0a52ebb8bdaafc04efd198385af48e1f5d4e643112c67cacfb2b22e4ca6ffc08537"
+    },
+    "regenerate-route-geometry": {
+      "hasChanged": false,
+      "hash": "d7ec06b023d3ae1f315e636f8b10ea75ba0a7218a266eb2c84d3faf387b90b5f2ebb8bdaafc04efd198385af48e1f5d4e643112c67cacfb2b22e4ca6ffc08537"
+    }
+  }
+}

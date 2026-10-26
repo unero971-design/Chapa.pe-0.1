@@ -1,0 +1,1 @@
+DROP FUNCTION IF EXISTS public.bulk_insert_route_segments(json);
